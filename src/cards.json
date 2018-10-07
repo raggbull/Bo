@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Diane",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/6/60/Diane_Nguyen_Season_5_haircut.png/revision/latest?cb=20180905000602ttps://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Bo",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/d/d2/BoJack_Horsemann.png/revision/latest?cb=20170924222700",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Gina",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8e/Gina_Cazador.png/revision/latest?cb=20180930175605",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "BoJack",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/c/ca/Charlotte_current.jpeg/revision/latest?cb=20171015173317",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/a/a7/1999_BoJack.png/revision/latest?cb=20171004171936",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Teen Bo",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/3/30/Teenage_BoJack.jpeg/revision/latest?cb=20170909171952",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Young Adult Bo",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/9/9c/Young_Adult_Beatrice_1.jpeg/revision/latest?cb=20180802051807",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Annyoing Mr. Peanutbutter",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/6/6f/Mr._Penaubtbutter_-90s-.png/revision/latest?cb=20170927120134",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Todd",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/5/53/Todd_Chavez.png/revision/latest?cb=20171017000218",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Princess",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/d/de/Princess_Carolyn.png/revision/latest?cb=20171017002131",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Pinky Penguin",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/b/b3/Pinky_Penguin.png/revision/latest?cb=20171127004636",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Whale",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/4/4c/Tom_Jumbo-Grumbo.png/revision/latest?cb=20150724053101",
+    "count": 0
+  }
+]
